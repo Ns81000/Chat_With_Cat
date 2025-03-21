@@ -20,7 +20,7 @@ A powerful Chrome extension that provides AI-powered insights about any text you
 
 1. **Clone or download** this repository
    - For safe installation, clone to a protected location like `C:\Projects\`: 
-   - `git clone https://github.com/username/Chat_With_Cat.git C:\Projects\Chat_With_Cat`
+   - `git clone https://github.com/Ns81000/Chat_With_Cat.git C:\Projects\Chat_With_Cat`
    - This prevents accidental deletion that might occur in temporary folders
 2. **Get an API key** from one of the supported providers:
    - [Google AI Studio](https://makersuite.google.com/app/apikey) for Gemini
